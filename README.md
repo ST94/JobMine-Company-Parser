@@ -3,6 +3,7 @@
 Simple python script that pulls parses through Jobmine HTML in order to find company names.
 
 Steps to run:
+
   1) Log into JobMine.
   
   2) Go to your active applications and view the source code.
